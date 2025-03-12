@@ -1,0 +1,46 @@
+[1mdiff --git a/.gitignore b/.gitignore[m
+[1mindex d0d878e..db5ddae 100644[m
+[1m--- a/.gitignore[m
+[1m+++ b/.gitignore[m
+[36m@@ -1 +1,2 @@[m
+[31m-.next[m
+\ No newline at end of file[m
+[32m+[m[32m.next[m
+[32m+[m[32mnode_modules[m
+\ No newline at end of file[m
+[1mdiff --git a/.next/cache/webpack/client-development/1.pack b/.next/cache/webpack/client-development/1.pack[m
+[1mindex ca5e137..b2a4854 100644[m
+Binary files a/.next/cache/webpack/client-development/1.pack and b/.next/cache/webpack/client-development/1.pack differ
+[1mdiff --git a/.next/cache/webpack/client-development/5.pack b/.next/cache/webpack/client-development/5.pack[m
+[1mindex c9a3ccf..c958774 100644[m
+Binary files a/.next/cache/webpack/client-development/5.pack and b/.next/cache/webpack/client-development/5.pack differ
+[1mdiff --git a/.next/cache/webpack/client-development/6.pack b/.next/cache/webpack/client-development/6.pack[m
+[1mindex 29e1c95..c24c058 100644[m
+Binary files a/.next/cache/webpack/client-development/6.pack and b/.next/cache/webpack/client-development/6.pack differ
+[1mdiff --git a/.next/cache/webpack/client-development/index.pack b/.next/cache/webpack/client-development/index.pack[m
+[1mindex 1e0d59c..befec4c 100644[m
+Binary files a/.next/cache/webpack/client-development/index.pack and b/.next/cache/webpack/client-development/index.pack differ
+[1mdiff --git a/.next/cache/webpack/client-development/index.pack.old b/.next/cache/webpack/client-development/index.pack.old[m
+[1mindex 6e8ae53..14cfdab 100644[m
+Binary files a/.next/cache/webpack/client-development/index.pack.old and b/.next/cache/webpack/client-development/index.pack.old differ
+[1mdiff --git a/.next/cache/webpack/server-development/3.pack b/.next/cache/webpack/server-development/3.pack[m
+[1mindex ce2b692..d0ec0b1 100644[m
+Binary files a/.next/cache/webpack/server-development/3.pack and b/.next/cache/webpack/server-development/3.pack differ
+[1mdiff --git a/.next/cache/webpack/server-development/4.pack b/.next/cache/webpack/server-development/4.pack[m
+[1mindex fe5e64d..e3501d0 100644[m
+Binary files a/.next/cache/webpack/server-development/4.pack and b/.next/cache/webpack/server-development/4.pack differ
+[1mdiff --git a/.next/cache/webpack/server-development/index.pack b/.next/cache/webpack/server-development/index.pack[m
+[1mindex d381095..3b21e5c 100644[m
+Binary files a/.next/cache/webpack/server-development/index.pack and b/.next/cache/webpack/server-development/index.pack differ
+[1mdiff --git a/.next/cache/webpack/server-development/index.pack.old b/.next/cache/webpack/server-development/index.pack.old[m
+[1mindex 49924ab..f2618b4 100644[m
+Binary files a/.next/cache/webpack/server-development/index.pack.old and b/.next/cache/webpack/server-development/index.pack.old differ
+[1mdiff --git a/.next/server/pages/index.js b/.next/server/pages/index.js[m
+[1mindex 36c64f8..654e62b 100644[m
+[1m--- a/.next/server/pages/index.js[m
+[1m+++ b/.next/server/pages/index.js[m
+[36m@@ -19,7 +19,7 @@[m [mexports.modules = {[m
+   \************************/[m
+ /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {[m
+ [m
+[31m-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n\nfunction Home() {\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"h1\", {\n        children: \"teste 2\"\n    }, void 0, false, {\n        fileName: \"/home/gilvanjunior/projetos/clone-tabnews/pages/index.js\",\n        lineNumber: 2,\n        columnNumber: 12\n    }, this);\n}\n/* harmony default export */ con
